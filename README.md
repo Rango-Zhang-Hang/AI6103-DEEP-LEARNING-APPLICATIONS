@@ -2,4 +2,4 @@
 Project
 
 Guys, change the parameters here:
-epochs = 10
+$ epochs = 10
