@@ -4,7 +4,7 @@ Project
 Guys, change the parameters here:
 $ epochs = 10
 
-## Contribution
+## Code Contribution
 | Name  | Algorithm |
 | ------------- | ------------- |
 | Ding Hongwei  | Optimizers  |
@@ -13,3 +13,6 @@ $ epochs = 10
 |Seah Xiu Xuan Sherbelle|Data augmentation|
 |Zhang Hang|L2 Regularization|
 
+## Reference
+[BERT]()
+[IMDB](https://www.kaggle.com/code/houssemayed/imdb-sentiment-classification-with-bert/data)
