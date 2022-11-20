@@ -14,6 +14,6 @@ $ epochs = 10
 |Zhang Hang|L2 Regularization|
 
 ## Reference
-BERT baseline: model[BERT]()
+BERT baseline model: [BERT]()
 
 IMDB review dataset: [IMDB](https://www.kaggle.com/code/houssemayed/imdb-sentiment-classification-with-bert/data)
