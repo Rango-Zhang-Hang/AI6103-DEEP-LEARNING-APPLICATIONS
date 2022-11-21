@@ -12,6 +12,6 @@ This project studies the effects of regularization and optimization on the BERT 
 |Zhang Hang|L2 Regularization|
 
 ## Reference
-- [BERT baseline mode](https://www.kaggle.com/code/houssemayed/imdb-sentiment-classification-with-bert/notebook)
+- [BERT baseline model](https://www.kaggle.com/code/houssemayed/imdb-sentiment-classification-with-bert/notebook)
 
 - [IMDB review dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
